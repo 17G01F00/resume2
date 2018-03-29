@@ -1,0 +1,33 @@
+{
+  "basics":{
+    "photo":"images.png",
+    "name":"nandini",
+    "email":"nnandinimrrdcgmail.com",
+    "mobile":"9441996786",
+    "address":"penumur"
+  },
+  "career":{
+    "info":"If you do not have professional experience or a college degree, you may be hoping to land an entry-level job, apprenticeship, or internship."
+  },
+  "education":[{
+    "course":"MCA",
+    "college":"SCVPCET,PUTTUE",
+    "data":["2017-20","95.6%"]
+  },
+    {
+    "course":"BSC(computers)",
+    "college":"SVV DEGREE",
+    "data":["2014-17","89.6%"]
+  },
+    {
+    "course":" Intermediate[MPC]",
+    "college":"sv junior",
+    "data":["2012-14","90.6%"]
+  },
+    {
+    "course":" S.S.C",
+    "college":"ZP high school",
+    "data":["2012","83.6%"]
+  }
+  ]
+}
